@@ -1,4 +1,4 @@
-[insta.html](https://github.com/user-attachments/files/32890177/insta.html)
+(https://github.com/user-attachments/files/32890177/insta.html)
 <body>
     <div class="y1"><div class="r1"><div class="a1"><img src="toxir.webp" class="a1"></div><div class="a1"></div></div>
     <h1 class="s1">tokhirov.13
@@ -38,7 +38,7 @@ border-radius: 500px;
 margin-left: 50px;
 }
 .y1{display: flex;}
-.s2{margin-top: 60px;
+.s2{margin-top: 80px;
     margin-left:-150px;
 }
 .s1 {margin-left: 20px;}
